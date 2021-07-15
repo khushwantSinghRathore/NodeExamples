@@ -1,0 +1,4 @@
+This is just a example of data stream.
+example for data stream.
+this will return you data in stream.
+just for the best way to have a good way for data access.
